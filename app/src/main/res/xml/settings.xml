@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+
+    <ListPreference
+        android:title="KM/Miles"
+        android:key="units"
+        android:entries="@array/units"
+        android:entryValues="@array/units_values"
+        android:defaultValue="KM"/>
+    
+    <ListPreference
+        android:title="Search perimeter"
+        android:key="perimeter"
+        android:entries="@array/perimeter"
+        android:entryValues="@array/perimeter_values" />
+
+    <SwitchPreference
+        android:title="When adding favourites"
+        android:summary="Open favourites screen"
+        android:key="add"/>
+
+
+</PreferenceScreen>

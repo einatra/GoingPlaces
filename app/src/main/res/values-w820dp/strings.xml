@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="searc_frag_fav_share_dialog_title">Favourites / Share</string>
+    <string name="searc_frag_fav_share_dialog_msg">What would you like to do with this location?</string>
+    <string name="searc_frag_fav_share_dialog_btn_share">Share</string>
+    <string name="searc_frag_fav_share_dialog_share_with">Share with:</string>
+    <string name="searc_frag_fav_share_dialog_btn_add">Add to favourites</string>
+    <string name="searc_frag_fav_share_dialog_toast_added">Place added to favourites</string>
+    <string name="searc_frag_toast_no_internet">"No internet connection, results shown by last known location "</string>
+    <string name="searc_frag_location_on_dialog_msg">"You need to turn on Location to use this app "</string>
+    <string name="searc_frag_location_on_dialog_btn_ok">Let\'s go!</string>
+    <string name="searc_frag_location_on_dialog_btn_no">Not now</string>
+    <string name="searc_frag_progress_dialog_title">Searching for places</string>
+    <string name="searc_frag_progress_dialog_msg">Please wait...</string>
+    <string name="main_act_del_fav_dialog_title">Are you sure?</string>
+    <string name="main_act_del_fav_dialog_msg">This action will delete all your favorites record</string>
+    <string name="main_act_del_fav_dialog_btn_del">Delete</string>
+    <string name="main_act_del_fav_dialog_btn_cancel">Cancel</string>
+    <string name="place_marker_title">"Name: "</string>
+    <string name="place_marker_snip">"Address: "</string>
+    <string name="here_marker_title">You are here</string>
+    <string name="async_factuat_limit_toast">You have reached the search limit for today, for unlimited search - buy the app :)</string>
+    <string name="action_fav">Favorites</string>
+    <string name="action_del_fav">Clear favorites</string>
+    <string name="action_lang">Heb/Eng</string>
+    <string name="miles_from_you">" Miles from your location"</string>
+    <string name="km_from_you">" KM from your location"</string>
+    <string name="frag_search_xml_edit_search_hint">Search key word</string>
+</resources>
